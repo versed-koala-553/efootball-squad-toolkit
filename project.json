@@ -1,0 +1,22 @@
+{
+  "name": "efootball-squad-toolkit",
+  "displayName": "eFootball Squad Toolkit",
+  "programType": "squad-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Squad profiles",
+    "Tactic notes",
+    "Match records"
+  ],
+  "topics": [
+    "efootball-squad-toolkit",
+    "efootball-tools",
+    "efootball-menu",
+    "efootball-settings",
+    "efootball-configs",
+    "efootball-squad-profiles",
+    "efootball-tactic-notes"
+  ]
+}
